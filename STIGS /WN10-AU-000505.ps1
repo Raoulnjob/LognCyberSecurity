@@ -25,8 +25,6 @@
     PS C:\> .\(STIG-ID-WN10-AU-000505).ps1 
 #>
 
-# YOUR CODE GOES HERE
-
 # Define the registry path
 $RegPath = "HKLM:\SOFTWARE\Policies\Microsoft\Windows\EventLog\Security"
 
